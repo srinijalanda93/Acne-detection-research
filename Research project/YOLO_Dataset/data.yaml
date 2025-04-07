@@ -1,0 +1,11 @@
+names:
+- whiteheads
+- blackheads
+- papule
+- nodule
+- keloid
+- pustule
+nc: 6
+path: /Users/srinija/Desktop/Research project/YOLO_Dataset
+train: images/train
+val: images/val

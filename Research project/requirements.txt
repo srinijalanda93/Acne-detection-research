@@ -1,0 +1,9 @@
+ultralytics  # YOLOv8
+torch  # PyTorch (For Faster R-CNN)
+torchvision
+torchaudio
+opencv-python  # OpenCV for image processing
+numpy  # Numerical operations
+matplotlib  # Visualization
+seaborn  # Statistical plotting
+streamlit  # Web UI for model interaction
